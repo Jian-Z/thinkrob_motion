@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "qt_create")
+set(qt_create_MAINTAINER "Daniel Stonier <d.stonier@gmail.com>")
+set(qt_create_DEPRECATED "")
+set(qt_create_VERSION "0.2.8")
+set(qt_create_BUILD_DEPENDS )
+set(qt_create_RUN_DEPENDS )
+set(qt_create_BUILDTOOL_DEPENDS "catkin")

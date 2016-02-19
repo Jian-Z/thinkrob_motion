@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Common_Function</class>
+ <widget class="QDialog" name="Common_Function">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>133</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string notr="true">Dialog</string>
+  </property>
+  <property name="toolTip">
+   <string notr="true"/>
+  </property>
+  <property name="statusTip">
+   <string notr="true"/>
+  </property>
+  <property name="whatsThis">
+   <string notr="true"/>
+  </property>
+  <property name="accessibleName">
+   <string notr="true"/>
+  </property>
+  <property name="accessibleDescription">
+   <string notr="true"/>
+  </property>
+  <widget class="QPushButton" name="prog_design_rate_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>20</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>  速率</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="prog_design_set_output_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>60</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>设置输出</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="prog_design_wait_input_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>100</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>等待输入</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="prog_design_input_judgment_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>140</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>输入判断</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="prog_design_goto_instruction_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>180</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>跳转指令</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="prog_design_wait_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>220</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>等待</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="prog_design_notes_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>260</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>注释语句</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="prog_design_loop_start_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>300</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>循环开始</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="prog_design_loop_end_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>340</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>循环结束</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="prog_design_acc_dec_time_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>380</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>加减速时间</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="prog_design_count_button">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>420</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>计数器</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="prog_design_exit_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>460</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>退出</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: thinkrob_pendant
+Description: Description of thinkrob_pendant
+Version: 0.2.8
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: message_runtime std_msgs roscpp

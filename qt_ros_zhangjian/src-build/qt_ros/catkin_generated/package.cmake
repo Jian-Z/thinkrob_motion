@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "qt_ros")
+set(qt_ros_MAINTAINER "Daniel Stonier <d.stonier@gmail.com>")
+set(qt_ros_DEPRECATED "")
+set(qt_ros_VERSION "0.2.8")
+set(qt_ros_BUILD_DEPENDS )
+set(qt_ros_RUN_DEPENDS "qt_build" "qt_create" "qt_tutorials")
+set(qt_ros_BUILDTOOL_DEPENDS "catkin")

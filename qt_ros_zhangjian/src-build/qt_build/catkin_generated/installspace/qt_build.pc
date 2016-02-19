@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: qt_build
+Description: Description of qt_build
+Version: 0.2.8
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

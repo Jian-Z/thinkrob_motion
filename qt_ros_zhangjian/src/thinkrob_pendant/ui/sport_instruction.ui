@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Sport_Instruction</class>
+ <widget class="QDialog" name="Sport_Instruction">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>133</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="joint_sport_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>20</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>点位运动</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="straight_sport_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>60</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>直线运动</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="circular_sport_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>100</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>圆弧运动</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="smooth_function_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>140</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>平滑功能</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="arc_auxiliary_point">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>270</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>圆弧辅助点</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="arc_end_point">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>310</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>圆弧结束点</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="tool_conversion">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>350</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>工具转换</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="workpiece_coordinate">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>390</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>工件坐标</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="exit_button">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>500</y>
+     <width>100</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>退出</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

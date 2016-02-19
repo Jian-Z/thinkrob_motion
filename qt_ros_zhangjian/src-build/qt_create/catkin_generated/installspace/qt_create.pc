@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: qt_create
+Description: Description of qt_create
+Version: 0.2.8
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 
